@@ -1,0 +1,20 @@
+int32 object_id
+string class_string
+int32 x
+int32 y
+int32 h
+int32 w
+float64 confidence
+sensor_msgs/Image cropped
+sensor_msgs/Image cropped_cloud
+geometry_msgs/Pose pose_wrt_robot
+geometry_msgs/Pose pose_wrt_map
+geometry_msgs/Pose pose_wrt_odom
+int32 valid_pose
+int32 person_id
+string person_name
+float64 reid_score
+float64[] joints
+string[] captions
+string[] tags
+

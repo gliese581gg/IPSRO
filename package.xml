@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>dip_jychoi</name>
+  <version>0.1.0</version>
+  <description>Deep Integrated Perception framework by Jinyoung Choi</description>
+
+  <author>Jinyoung Choi</author>
+  <maintainer email="gliese581gg@naver.com">Jinyoung Choi</maintainer>
+
+  <license>Apache 2.0</license>
+  <test_depend>rostest</test_depend>
+  <test_depend>roslaunch</test_depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
