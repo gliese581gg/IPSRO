@@ -1,9 +1,9 @@
-# DIP : Deep Integrated Perception Framework for Social Service Robots
+# IPSRO : Integrated Perception for Service RObots
 #### Ver 1.0 (2017.09.06) by Jinyoung Choi 
 
 ## Description
 
-DIP is deep learning based integrated perception framework for social service robots
+IPSRO is deep learning based integrated perception framework for social service robots
 
 It contains state-of-the-art object detector, human pose estimator, human re-identification, object captioning modules.
 
